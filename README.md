@@ -10,36 +10,32 @@ This project aims to simplify the booking process, reduce scheduling conflicts, 
 Objectives
 
 
-Objectives of the Online Appointment Booking System
-Provide a convenient online platform for users to book appointments anytime and anywhere.
-Reduce scheduling conflicts by showing real-time availability of services or staff.
-Simplify appointment management through easy booking, rescheduling, and cancellation features.
-Improve communication between users and service providers through automated notifications and updates.
-Streamline administrative tasks by allowing admins to manage bookings, clients, and schedules in one place.
-Enhance user experience with a clean, intuitive, and responsive interface.
-Increase efficiency for businesses by reducing manual booking processes.
-Ensure secure access through user authentication and protected data handling.
+✔️Objectives of the Online Appointment Booking System
+✔️Provide a convenient online platform for users to book appointments anytime and anywhere.
+✔️Reduce scheduling conflicts by showing real-time availability of services or staff.
+✔️Simplify appointment management through easy booking, rescheduling, and cancellation features.
+✔️Improve communication between users and service providers through automated notifications and updates.
+✔️Streamline administrative tasks by allowing admins to manage bookings, clients, and schedules in one place.
+✔️Enhance user experience with a clean, intuitive, and responsive interface.
+✔️ efficiency for businesses by reducing manual booking processes.
+✔️Ensure secure access through user authentication and protected data handling.
 
 
 
 Technologies Used
 
-HTML, CSS, JavaScript
-
-
+✔️HTML, CSS, JavaScript
 
 
 
 Features
 
-
-User registration and login
-Book, edit, and cancel appointments
-Real-time available time slots
-Admin dashboard for managing bookings
-Email/SMS notifications (optional)
-Simple and responsive user interface
-Summary of Findings
+✔️User registration and login
+✔️Book, edit, and cancel appointments
+✔️Real-time available time slots
+✔️Admin dashboard for managing bookings
+✔️Email/SMS notifications (optional)
+✔️Simple and responsive user interface
 
 
 
