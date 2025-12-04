@@ -3,3 +3,22 @@ Online Appointment Booking System is a web-based application designed to streaml
 Purpose
 
 This project aims to simplify the booking process, reduce scheduling conflicts, and provide an efficient digital solution for businesses such as clinics, salons, consultants, service centers, and more.
+
+
+Objectives
+
+
+
+Tools Used
+
+
+
+Summary of Findings
+
+
+
+Recommadations
+
+
+
+
