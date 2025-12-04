@@ -28,9 +28,8 @@ HTML, CSS, JavaScript
 
 
 
-
-
 Features
+
 
 User registration and login
 Book, edit, and cancel appointments
